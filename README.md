@@ -6,12 +6,11 @@ POINT CODES (ISPC) (ACCORDING TO RECOMMENDATION ITU-T Q.708 (03/99))
 
 seperated by country i.e {"country":[{},{},{},{},{},etc.],"country":[{},{},{},{},{},etc.]}
 
-each array is as follows :
-‘ispc’ =ISPC
-‘dec’ = DEC
-‘usp’ = Unique name of the signalling point
-‘nsp’ = Name of the signalling point operator
+each array is as follows :<br/>
+‘ispc’ =ISPC<br/>
+‘dec’ = DEC<br/>
+‘usp’ = Unique name of the signalling point<br/>
+‘nsp’ = Name of the signalling point operator<br/>
+<br/>
+some usp’s are empty so replaced with # tag<br/>
 
-some usp’s are empty so replaced with # tag
-have fun with it
-not sure if a normalized sqlite file would be smaller
